@@ -1,0 +1,151 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Schoolbell', cursive;
+  font-size: 30px;
+}
+
+.top-container{
+  background-color: #aceacf;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color:#66bfbf;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Patrick Hand', cursive;
+  color:#66bfbf;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Patrick Hand', cursive;
+  color:#11999e;
+}
+
+.profile-picture{
+  border-radius: 50%;
+}
+
+.profession{
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2rem;
+}
+
+.footer-link{
+  font-family: 'Just Another Hand', cursive;
+  color: #11999e;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.bottom-container{
+  background-color: #aceacf;
+  padding-bottom: 20px;
+}
+
+.logo{
+  height: 40px;
+  width: 40px;
+  padding-top:20px;;
+}
+
+.mail-logo{
+  height: 25px;
+  width: 25px;
+  padding-right: 10px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 25px;
+}
+
+.computer-image{
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.what{
+  width:25%;
+  float: right;
+  margin-left:30px;
+}
+
+.contact-me{
+  padding-bottom: 50px;
+}
+
+.profile{
+  width: 50%;
+  margin:auto;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 30%;
+}
+
+.btn {
+  background: #38c6d9;
+  background-image: -webkit-linear-gradient(top, #38c6d9, #4bcc83);
+  background-image: -moz-linear-gradient(top, #38c6d9, #4bcc83);
+  background-image: -ms-linear-gradient(top, #38c6d9, #4bcc83);
+  background-image: -o-linear-gradient(top, #38c6d9, #4bcc83);
+  background-image: linear-gradient(to bottom, #38c6d9, #4bcc83);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: 'Just Another Hand', cursive;
+  color: #aa5ca0;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1cbd87;
+  background-image: -webkit-linear-gradient(top, #1cbd87, #2bc9af);
+  background-image: -moz-linear-gradient(top, #1cbd87, #2bc9af);
+  background-image: -ms-linear-gradient(top, #1cbd87, #2bc9af);
+  background-image: -o-linear-gradient(top, #1cbd87, #2bc9af);
+  background-image: linear-gradient(to bottom, #1cbd87, #2bc9af);
+  text-decoration: none;
+}
+
+.footer-auth{
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+
+.website{
+  color: #000;
+}
