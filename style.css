@@ -84,6 +84,16 @@ h3{
   font-size: 25px;
 }
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .skill-row {
+    width: 100%;
+  }
+  .profile {
+    width: 100%;
+  }
+}
+
 .computer-image{
   border-radius: 50%;
   width: 30%;
